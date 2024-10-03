@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: [Sepehr_Harfi_CV.pdf](https://github.com/user-attachments/files/17250505/Sepehr_Harfi_CV.pdf)
+cv_pdf: Sepehr_Harfi_CV.pdf
 description: Last Update: October 2024.
 toc:
   sidebar: left

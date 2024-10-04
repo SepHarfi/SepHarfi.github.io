@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: You can find some of my notable repositories here.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 {% if site.data.repositories.github_users %}

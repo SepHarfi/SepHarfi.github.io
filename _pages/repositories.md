@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: You can find some of the notable projects from my courses below.
+description: You can find some of my notable repositories here.
 nav: true
 nav_order: 4
 ---

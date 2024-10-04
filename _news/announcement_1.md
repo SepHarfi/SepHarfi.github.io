@@ -9,5 +9,3 @@ related_posts: false
 In this project we aim to build a dataset along with utilizing Music Understanding model with Large-scale Self-supervised Training (MERT) for Persian instrument classification. Furthermore, we proposed a novel data augmentation technique which resulted in significant improvements for Persian instruments classification. 
 
 ---
-
----

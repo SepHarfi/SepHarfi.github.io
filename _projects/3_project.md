@@ -4,7 +4,7 @@ title: Accent Invariant ASR (Automatic Speech Recognition)
 description: 
 img: assets/img/registration.jpg
 importance: 1
-category: research
+category: Research
 related_publications: false
 ---
 

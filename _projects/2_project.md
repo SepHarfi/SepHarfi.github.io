@@ -4,7 +4,7 @@ title: Aging Clock
 description: Aiming to predict cell's age based on its .
 img: assets/img/registration.jpg
 importance: 4
-category: research
+category: Research
 related_publications: false
 ---
 

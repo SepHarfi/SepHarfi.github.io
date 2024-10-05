@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Under construction. 
+description: A summary of my notable projects. 
 nav: true
 nav_order: 3
 display_categories: [research]

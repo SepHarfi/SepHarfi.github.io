@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: You can find an overview of the courses I have contributed to as a Teaching Assistant at Sharif University of Technology.
 nav: true
 nav_order: 4

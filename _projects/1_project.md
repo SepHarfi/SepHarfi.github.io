@@ -3,7 +3,7 @@ layout: page
 title: Medical Image Registration
 description: Registration of CTA and MRA brain images. 
 img: assets/img/registration.jpg
-importance: 1
+importance: 3
 category: research
 related_publications: false
 ---

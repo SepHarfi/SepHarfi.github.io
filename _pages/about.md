@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Final-year BSc Student at Sharif University of Technology, Tehran, Iran</a>.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: You can find some of my notable repositories here.
 nav: true
 nav_order: 5

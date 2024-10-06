@@ -2,7 +2,7 @@
 layout: page
 title: Persian Music Generation
 description: Generaring music in Persian Style.
-img: assets/img/musicgeenration.jpg
+img: assets/img/musicgeneration.jpg
 importance: 2
 category: Research
 related_publications: false

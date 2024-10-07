@@ -8,7 +8,8 @@ category: Research
 related_publications: false
 ---
 
-In this project where I worked under the supervision of Professor Lotfollahi at Wellcome Sanger Institute, I aimed to predict a single cell's age based on its gene expression. The challenges here are the sparsity of our data and its high dimensionality. The solution proposed was using GeneFormer transformer-based model to embed our data and then use regression heads. In fact, I evaluated the GeneFormer results for this task. Furthermore, I used a bunch of techniques like mix-up loss to improve the performance of our model. 
+In this project, conducted under the supervision of Professor Lotfollahi at the Wellcome Sanger Institute, I focused on predicting the age of single cells based on their gene expression profiles. The main challenges were the high dimensionality of the data. To address these, I employed the GeneFormer model, a transformer-based architecture designed to embed gene expression data, followed by regression heads for age prediction. I evaluated GeneFormer's performance for this task and applied advanced techniques like mix-up loss to enhance the model's accuracy and overall performance.
+
 
 
 

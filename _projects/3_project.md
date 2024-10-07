@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accent Invariant Speech Recognition
-description: 
+description: Sharif University of Technology
 img: assets/img/asr.jpg
 importance: 1
 category: Research

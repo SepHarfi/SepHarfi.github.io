@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aging Clock
-description: Aiming to predict cell's age based on its .
+description: Wellcome Sanger Institute
 img: assets/img/agingclock.jpg
 importance: 4
 category: Research

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Persian Music Generation
-description: Generaring music in Persian Style.
+description: Sharif University of Technology
 img: assets/img/musicgeneration.jpg
 importance: 2
 category: Research

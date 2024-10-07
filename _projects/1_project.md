@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Medical Image Registration
-description: Registration of CTA and MRA brain images. 
+description: University of Zurich
 img: assets/img/registration.jpg
 importance: 3
 category: Research

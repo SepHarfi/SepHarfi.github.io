@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Sepehr Harfi, a final-year BSc Computer Engineering student at [Sharif University of Technology](http://sharif.edu) with a passion for research in trustworthy machine learning, biomedical informatics, medical image analysis, and speech and audio processing with a focus on music. 
+I am Sepehr Harfi, a final-year BSc Computer Engineering student at [Sharif University of Technology](http://sharif.edu) with a passion for research in trustworthy machine learning, AI for health, and speech and audio processing with a focus on music. 
 
 Outside of academia, I enjoy exploring music, pyschology, cinema, and arts, which fuel my creativity.
 

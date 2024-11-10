@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My first paper titled Self-Supervised Classification of Persian Musical Instruments Using Polyphonic Data Augmentation has been submitted to IEEE AIMG 2024!
-date: 2024-10-01 
+title: My first paper titled Self-Supervised Classification of Persian Musical Instruments Using Polyphonic Data Augmentation has been accepted to IEEE AIMG 2024!
+date: 2024-11-03 
 inline: false
 related_posts: false
 ---

@@ -67,15 +67,6 @@
       "endDate": "2024-06-01",
       "summary": "MRA/CTA Registration: Designed and implemented an efficient pipeline to align brain MRA and CTA images.",
       "highlights": ["Professor Bjoern Menze"]
-    },
-    {
-      "name": "Wellcome Sanger Institute",
-      "position": "Research Assistant",
-      "url": "https://lotfollahi.com",
-      "startDate": "2023-06-01",
-      "endDate": "2023-10-01",
-      "summary": "Aging Clock: Transformed high-dimensional gene expression data using GeneFormer for age prediction.",
-      "highlights": ["Professor Mo Lotfollahi"]
     }
   ],
   "volunteer": [],
@@ -148,7 +139,7 @@
       "summary": ""
     },
     {
-      "name": "Data-Driven Insights on Opioid Use and Health Behavior Trends Following Decriminalization: Zero-Shot Sentiment and Behavior Analysis",
+      "name": "Detecting Misconception Surges in Opioid Policy: A Zero-Shot LLM Analysis of British Columbia's Decriminalization Pilot",
       "publisher": "",
       "releaseDate": "2026",
       "url": "",

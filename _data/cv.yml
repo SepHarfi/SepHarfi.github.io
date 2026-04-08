@@ -44,12 +44,6 @@
       year: 2024
       description:
         - "MRA/CTA Registration: Designed and implemented an efficient pipeline to align brain MRA and CTA images from the same patient, enhancing multimodal analysis."
-    - title: Research Assistant
-      institution: Wellcome Sanger Institute, Professor Mo Lotfollahi
-      year: 2023
-      description:
-        - "Aging Clock: Transformed high-dimensional gene expression data using GeneFormer, followed by a regression head for accurate age prediction."
-
 - title: Honors and Awards
   type: time_table
   contents:

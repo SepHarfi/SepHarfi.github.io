@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A summary of my notable projects. 
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Research]
 horizontal: false

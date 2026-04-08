@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Tehran, Iran</a>
+subtitle: <a href='#'>Toronto, Canada</a>
 
 profile:
   align: right

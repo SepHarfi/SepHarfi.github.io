@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My first paper, titled Persian Musical Instruments Classification Using Polyphonic Data Augmentation, has been accepted to IEEE Big Data 2024 AIMG!
-date: 2024-11-03 
+title: Our paper, titled Persian Musical Instruments Classification Using Polyphonic Data Augmentation, has been accepted to NeurIPS 2025 AI4Music!
+date: 2025-06-15 
 inline: false
 related_posts: false
 ---

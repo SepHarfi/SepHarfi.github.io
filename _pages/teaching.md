@@ -2,15 +2,27 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: You can find an overview of the courses I have contributed to as a Teaching Assistant at Sharif University of Technology.
+description: You can find an overview of the courses I have contributed to as a Teaching Assistant.
 nav: true
 nav_order: 4
 ---
 
 ## Teaching Assistant
+**University of Toronto**  
+Toronto  
+2025 - Present  
+
+### Courses:
+
+- **Public Health Data Visualization Storytelling, AI4PH Short Course**  
+  Prof. Zahra Shakeri, Fall 2025  
+
+---
+
+## Teaching Assistant
 **Sharif University of Technology**  
 Tehran  
-2021 - Present  
+2021 - 2025  
 
 ### Courses:
 

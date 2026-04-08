@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Sepehr Harfi, a final-year BSc Computer Engineering student at [Sharif University of Technology](http://sharif.edu) with a passion for research, with no specific order, in trustworthy machine learning, music information retrieval, speech and audio processing, AI for health, and fairness in AI. 
+I am Sepehr Harfi, a M.Sc. student in AI for Health Systems Research at the [University of Toronto](https://www.utoronto.ca/) and a Machine Learning Engineer at [Boson AI](https://www.boson.ai/). I received my B.Sc. in Computer Engineering from [Sharif University of Technology](http://sharif.edu) (GPA: 18.64/20.00). My research interests include audio and speech processing, generative artificial intelligence, multimodal learning, and large language models.
 
-Outside of academia, I enjoy exploring music, pyschology, cinema, and arts, which fuel my creativity.
+Outside of academia, I enjoy exploring music, psychology, cinema, and arts, which fuel my creativity.
 

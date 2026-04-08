@@ -2,96 +2,79 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sepehr Harfi
     - name: Languages
-      value: English, German
+      value: English, Persian, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc. in AI for Health Systems Research
+      institution: University of Toronto, Toronto, Canada
+      year: 2025 - Present
+    - title: Bachelor of Science in Computer Engineering
+      institution: Sharif University of Technology, Tehran, Iran
+      year: 2020 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 18.64/20.00"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Engineer
+      institution: Boson AI
+      year: 2026 - Present
+    - title: Research Assistant
+      institution: University of Toronto, Professor Zahra Shakeri
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Predicting post-surgery voice after respiratory operations.
+    - title: Software Engineering Intern
+      institution: Okala - Biggest Online Supermarket in Iran
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Worked as a backend software engineer.
+    - title: Research Assistant
+      institution: Sharif University of Technology, Professor Mahdieh Soleymani Baghshah
+      year: 2024 - 2025
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - "Persian Music Generation: Curated a dataset of Persian music audio paired with descriptive captions, enabling advancements in generative audio models."
+    - title: Research Assistant
+      institution: University of Zurich, Professor Bjoern Menze
+      year: 2024
+      description:
+        - "MRA/CTA Registration: Designed and implemented an efficient pipeline to align brain MRA and CTA images from the same patient, enhancing multimodal analysis."
+    - title: Research Assistant
+      institution: Wellcome Sanger Institute, Professor Mo Lotfollahi
+      year: 2023
+      description:
+        - "Aging Clock: Transformed high-dimensional gene expression data using GeneFormer, followed by a regression head for accurate age prediction."
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Vector Scholarship in AI for Masters Students
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Top 0.005 Nationwide University Entrance Exams (Mathematics and Physics)
+    - year: 2019
+      items:
+        - Bronze Medal in the National Astronomy and Astrophysics Olympiad
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Audio and Speech Processing
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Accent-invariant ASR, saliency-driven spectrogram masking
+    - title: Generative Artificial Intelligence
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Music generation, generative audio models
+    - title: Multimodal Learning
+      items:
+        - Cross-modal alignment, multimodal analysis
+    - title: Large Language Models
+      items:
+        - LLM evaluation, proactivity benchmarks
